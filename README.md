@@ -1,5 +1,5 @@
 # GamerHub
-    https://github.com/users/Kundratsk/projects/1/views/1?system_template=kanban
+    https://github.com/users/Kundratsk/projects/3
 
 ### GamerHub on loodud mänguritele tiimikaaslaste ja sõprade leidmiseks, kellega koos mängida. Rakenduse eesmärk on lihtsustada sobivate mängukaaslaste leidmist vastavalt mängule, oskustasemele, mängustiilile ja ajakavale. 
 
